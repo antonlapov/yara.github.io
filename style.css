@@ -1,8 +1,27 @@
 html, body {
     margin: 0;
     padding: 0;
+    background-color: blueviolet;
   }
   canvas {
+    padding:0%;
     display: block;
   }
-  
+main {
+  font-family: Arial, Helvetica, sans-serif;
+  color: aliceblue;
+}  
+
+a{
+  color: antiquewhite;
+}
+
+#canvaz{
+  padding: 0;
+  background-color: blue;
+}
+
+#menu{
+  padding-left: 10%;
+  padding-top: 5%;
+}
